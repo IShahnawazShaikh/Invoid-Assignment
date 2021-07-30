@@ -1,0 +1,3 @@
+include ':piclibrary'
+include ':app'
+rootProject.name = "piclab"
